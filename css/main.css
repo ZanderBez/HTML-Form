@@ -1,0 +1,74 @@
+form{
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #313131;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    color: white;
+    text-align: center;
+}
+
+.icon{
+    width: 32%;
+    height: 110px;
+    background-image: url("../assets/5ece5029123d6d0004ce5f8b.png");
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+}
+
+
+form h3{
+    text-align: center;
+}
+
+form p{
+    padding-top: 30px;
+}
+
+form p:hover{
+    cursor: pointer;
+}
+
+.button{
+    width:35%;
+    height: 30px;
+    border-radius: 25px;
+    padding-top: 10px;
+    float: left;
+    margin-left: 32px;
+    margin-bottom: 20px;
+}
+
+
+.button a{
+    color: white;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: rgb(0, 172, 0);
+}
+
+.input-el{
+    width: 80%;
+    height: 35px;
+    margin-top: 10px;
+    padding-left: 15px;
+    border: none;
+    border-radius: 20px;
+}
+
+select, button{
+    width: 85% !important;
+    background-color: rgb(1, 167, 1);
+    margin: 0 auto;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+}
